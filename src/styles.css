@@ -1,3 +1,8 @@
 body{
     background-color: aqua;
     }
+
+    .results{
+        font-size: xx-large;
+        column-count: 8;
+    }
