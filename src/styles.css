@@ -6,3 +6,8 @@ body{
         font-size: xx-large;
         column-count: 8;
     }
+
+    header, main{
+        text-align: center;
+        font-family:'Courier New', Courier, monospace;
+    }
